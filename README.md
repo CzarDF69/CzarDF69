@@ -1,14 +1,15 @@
-# 👋 Olá pessoal, eu sou o César Tomm
+# 👋 ( ͡° ͜ʖ ͡°) Olá pessoal, eu sou o César Tomm
 
-🔭 Eu trabalho no **Banco do Brasil** em ambiente IBM mainframe, mantendo sistemas legados e promovendo nossos produtos para novas tecnologias, principalmente serviços em nuvem.
+🔭 Eu sou analista de sistemas e trabalho no **Banco do Brasil** em ambiente IBM mainframe, mantendo sistemas legados e promovendo nossos produtos para novas tecnologias, principalmente serviços em nuvem.
 
-🌱 Estou fazendo uma segunda graduação em **Sistemas para Internet**
+🌱 Atualmente estou fazendo uma segunda graduação em **Sistemas para Internet**
 
 💬 Pergunte-me sobre **Cobol** e **CICS**
 
 ### Linguagens
 
 <div>
+  <span>COBOL CICS</span>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
