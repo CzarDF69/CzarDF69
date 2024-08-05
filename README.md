@@ -7,20 +7,30 @@
   🌱 Atualmente estou fazendo uma segunda graduação em <b>Sistemas para Internet</b>.
 </h4>
 
-### Sou especialista em
+## Sou especialista em
 
 <div>
   <h3>
-    COBOL
-    JCL
-    CICS
-    VSAM
-    SQL/DB2
-    Adabas/Natural
+    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> COBOL
+  </h3>
+  <h3>
+    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> JCL
+  </h3>
+  <h3>
+    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> CICS
+  </h3>
+  <h3>
+    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> VSAM
+  </h3>
+  <h3>
+    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> SQL/DB2
+  </h3>
+  <h3>
+    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> Adabas/Natural
   </h3>
 </div>
 
-### Linguagens e tecnologias em aprendizado
+## Linguagens e tecnologias em aprendizado
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -34,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-### Contatos
+## Contatos
 
 <div>
   <a href="mailto:czar.df.69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
