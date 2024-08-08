@@ -2,9 +2,9 @@
 
 <h4>
   🔭 Eu sou analista de sistemas e trabalho no <b>Banco do Brasil</b> em ambiente <b>IBM <i>mainframe</i></b>, onde mantenho sistemas legados e desenvolvo novas soluções com tecnologias atuais, principalmente serviços <b>web</b> e <b><i>mobile</i></b>.
-</h3>
+</h4>
 <h4>
-  🌱 Atualmente estou fazendo uma segunda graduação em <b>Sistemas para Internet</b>.
+  🌱 Trabalho com TI desde 1990. Atualmente estou fazendo uma segunda graduação em <b>Sistemas para Internet</b>.
 </h4>
 
 ## Sou especialista em
@@ -12,36 +12,30 @@
 <div>
   <h3>
     <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> COBOL
-  </h3>
-  <h3>
     <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> JCL
-  </h3>
-  <h3>
     <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> CICS
-  </h3>
-  <h3>
     <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> VSAM
-  </h3>
-  <h3>
     <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> SQL/DB2
-  </h3>
-  <h3>
     <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> Adabas/Natural
   </h3>
 </div>
 
-## Linguagens e tecnologias em aprendizado
+## Tecnologias em constante aprendizado
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
+</div>
+<br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </div>
 
 ## Contatos
