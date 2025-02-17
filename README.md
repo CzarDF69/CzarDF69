@@ -10,32 +10,37 @@
 ## Sou especialista em
 
 <div>
-  <h3>
-    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> COBOL
-    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> JCL
-    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> CICS
-    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> VSAM
-    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> SQL/DB2
-    <img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> Adabas/Natural
-  </h3>
+  <dl>
+    <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> COBOL</dt>
+    <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> CICS</dt>
+    <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> VSAM</dt>
+    <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> JCL</dt>
+    <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> SQL/DB2</dt>
+    <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20"/> Natural/Adabas</dt>
+  </dl>
 </div>
 
 ## Tecnologias em constante aprendizado
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
-</div>
-<br>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
+    </tr>
+  </table>
 </div>
 
 ## Contatos
