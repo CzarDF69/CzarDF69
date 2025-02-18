@@ -10,18 +10,22 @@
 ## Sou especialista em:
 
 <div>
-  <table>
+  <table border=1 bordercolor=black>
     <tr>
-      <td><dl>
-        <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> COBOL </dt>
-        <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> VSAM </dt>
-        <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> SQL/DB2 </dt>
-      </dl></td>
-      <td><dl>
-        <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> CICS </dt>
-        <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> JCL </dt>
-        <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> Natural/Adabas </dt>
-      </dl></td>
+      <td>
+        <dl>
+          <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> COBOL </dt>
+          <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> VSAM </dt>
+          <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> SQL/DB2 </dt>
+        </dl>
+      </td>
+      <td>
+        <dl>
+          <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> CICS </dt>
+          <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> JCL </dt>
+          <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> Natural/Adabas </dt>
+        </dl>
+      </td>
     </tr>
   </table>
 </div>
@@ -29,7 +33,7 @@
 ## Tecnologias em constante aprendizado:
 
 <div>
-  <table>
+  <table border=1 bordercolor=black>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="45" height="45" /></td>
