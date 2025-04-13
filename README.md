@@ -4,7 +4,7 @@
   🔭 Eu sou analista de sistemas e trabalho no <b>Banco do Brasil</b> em ambiente <b>IBM <i>mainframe</i></b>, onde mantenho sistemas legados e desenvolvo novas soluções com tecnologias atuais, principalmente serviços <b>web</b> e <b><i>mobile</i></b>.
 </h4>
 <h4>
-  🌱 Trabalho com TI desde 1990. Minha linguagem preferida é o Cobol, com a qual eu trabalhei em todas as empresas que passei. Atualmente estou fazendo uma segunda graduação em <b>Sistemas para Internet</b>, visando entender mais e me especializar em baixa plataforma.
+  🌱 Trabalho com TI desde 1990. Minha linguagem preferida é o Cobol, com a qual eu trabalhei em todas as empresas que passei. Atualmente estou fazendo uma segunda graduação em <b>Sistemas para Internet</b>, com o objetivo de me intregar melhor ao mundo DevOps.
 </h4>
 
 ## Conhecimentos avançados:
