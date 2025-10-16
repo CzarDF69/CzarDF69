@@ -16,16 +16,12 @@
         <dl>
           <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> COBOL </dt>
           <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> JCL </dt>
-        </dl>
-      </td>
-      <td>
-        <dl>
           <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> CICS </dt>
-          <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> VSAM </dt>
         </dl>
       </td>
       <td>
         <dl>
+          <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> VSAM </dt>
           <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> SQL/DB2 </dt>
           <dt><img src="https://img.icons8.com/?size=100&id=sz8cPVwzLrMP&format=png&color=000000" width="20" height="20" /> Natural </dt>
         </dl>
@@ -35,7 +31,7 @@
 </div>
 
 ## Conhecimentos em aprimoramento:
-[![My Skills](https://skillicons.dev/icons?i=angular,aws,github,html,java,js,linux,mongodb,nodejs,py,react,ts,ubuntu,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,github,html,java,js,linux,mongodb,nodejs,py,react,ts,ubuntu,vscode&perline=5)](https://skillicons.dev)
 
 ## Contatos:
 
