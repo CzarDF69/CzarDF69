@@ -31,7 +31,7 @@
 </div>
 
 ## Conhecimentos em aprimoramento:
-[![My Skills](https://skillicons.dev/icons?i=angular,aws,github,html,java,js,linux,mongodb,nodejs,py,react,ts,ubuntu,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,css,github,html,java,js,linux,mongodb,nodejs,py,react,ts,ubuntu,vscode&perline=5)](https://skillicons.dev)
 
 ## Contatos:
 
